@@ -37,8 +37,9 @@ This repository contains all the minor and major projects which includes Schemat
 ✅As a mini Project, 1 Bit comparator is created with the help of custom made library.
 
 
+<br> 👉🏻This training was organized at SRMU.
 
 
 ##             </br>      Author: Utkarsh Patel🔥
 
-<br> 👉🏻This training was organized at SRMU.
+
