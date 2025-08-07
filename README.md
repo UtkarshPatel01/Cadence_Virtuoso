@@ -2,9 +2,9 @@
 This repository contains all the minor and major projects which includes Schematics, Symbols and Layouts of the circuits.
 
 ## Contents
-<br>  |--Logic_Gates
-<br>  |--Combinational Circuits
-<br>  |--Sequential Circuits
+|--Logic_Gates
+<br>    |--Combinational Circuits
+<br>    |--Sequential Circuits
 
 ## 1️⃣Logic Gates:
    🔸 AND Gate
